@@ -484,7 +484,7 @@ enable-php
 Install PHP, PHP-FPM (FastCGI Process Manager) and associated PHP modules using the command.
 
 ```
-sudo dnf install phpphp-opcachephp-gdphp-curl php-mysqlnd
+sudo dnf install php php-opcache php-gdphp-curl php-mysqlnd
 ```
 ![php-instal](images/php-instal.png)
 
